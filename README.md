@@ -32,25 +32,6 @@
   </ol>
   
   <h2>For Windows there is an Installer Available. <a href="https://github.com/Kush-Dhingra/Sigma-Chat-App-for-Hackathon-With-Lewis/releases/download/Chat/Sigma.Chat.Setup.exe">Download It</a></h2>
-  <h2>Installation [Git Required]</h2>
-  <ol>
-    <li>Clone the repository:
-      <pre><code>git clone https://github.com/Kush-Dhingra/Sigma-Chat-App-for-Hackathon-With-Lewis.git</code></pre>
-    </li>
-    <li>Navigate to the project directory:
-      <pre><code>cd Sigma-Chat-App-for-Hackathon-With-Lewis</code></pre>
-    </li>
-    <li>Install dependencies:
-      <pre><code>npm install</code></pre>
-    </li>
-    <li>Run the app:
-      <pre><code>npm start</code></pre>
-    </li>
-    <li>Open Url in your Browser
-      <pre><code>localhost:3000</code></pre>
-    </li>
-  </ol>
-
   
   <h2>Contact</h2>
   <p>For any questions or feedback, reach out to Me at: <a href="mailto:kushdhingra3112@gmail.com.com">kushdhingra3112@gmail.com</a></p>
